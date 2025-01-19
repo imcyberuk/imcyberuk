@@ -159,15 +159,16 @@
 </p>
 
 <!-- Profile Stats -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imcyberuk&show_icons=true&theme=tokyonight&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=imcyberuk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcyberuk&langs_count=8&theme=tokyonight&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=imcyberuk&langs_count=8&theme=tokyonight&layout=compact&v=2" />
-</p>
-<p align="center">
-  <a href="https://github.com/BNU-CO452/github-fundamentals-CyberSoldierUK"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=github-fundamentals-CyberSoldierUK&theme=tokyonight" /></a>
-  <a href="https://github.com/BNU-CO452/bluej-apps21-Renato-Martins"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BNU-CO452&repo=bluej-apps21-Renato-Martins&theme=tokyonight" /></a>
-</p>
+<a href="https://github-readme-stats.vercel.app/api?username=imcyberuk&show_icons=true&theme=tokyonight&include_all_commits">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imcyberuk&show_icons=true&theme=tokyonight&include_all_commits" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imcyberuk&langs_count=8&theme=tokyonight&layout=compact&card_width=320">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcyberuk&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+</a>
+
+<a href="https://github-readme-streak-stats.herokuapp.com?user=imcyberuk&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imcyberuk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=imcyberuk&langs_count=8&theme=tokyonight&layout=compact&v=1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imcyberuk&langs_count=8&theme=tokyonight&layout=compact&v=1" />
+</a>
