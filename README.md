@@ -9,7 +9,11 @@
     <img src="https://discord.c99.nl/widget/theme-4/767408405643788318.png" />
   </a>
 </p>
-<a href="https://mynickname.com/cyberuk"><img src="https://mynickname.com/img.php?nick=CyberUK&sert=26&text=t9" alt="My nickname is CyberUK" /></a>
+<p align="center">
+  <a href="https://mynickname.com/cyberuk">
+    <img src="https://mynickname.com/img.php?nick=CyberUK&sert=26&text=t9" alt="My nickname is CyberUK" />
+  </a>
+</p>
 <!-- ImageSocial -->
 <a href="https://github.com/RenatoMartins21" target="_blank"><img src="/img/Socials.gif?raw=true" /></a>
 <!-- Socials -->
